@@ -1,0 +1,9 @@
+C:\Users\1\Desktop\lab\StackBattle\StackBattle\bin\Debug\StackBattle.exe.config
+C:\Users\1\Desktop\lab\StackBattle\StackBattle\bin\Debug\StackBattle.exe
+C:\Users\1\Desktop\lab\StackBattle\StackBattle\bin\Debug\StackBattle.pdb
+C:\Users\1\Desktop\lab\StackBattle\StackBattle\obj\Debug\StackBattle.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\lab\StackBattle\StackBattle\obj\Debug\StackBattle.Properties.Resources.resources
+C:\Users\1\Desktop\lab\StackBattle\StackBattle\obj\Debug\StackBattle.csproj.GenerateResource.Cache
+C:\Users\1\Desktop\lab\StackBattle\StackBattle\obj\Debug\StackBattle.exe
+C:\Users\1\Desktop\lab\StackBattle\StackBattle\obj\Debug\StackBattle.pdb
+C:\Users\1\Desktop\lab\StackBattle\StackBattle\bin\Debug\GulyayGorod.dll
